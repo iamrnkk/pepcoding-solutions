@@ -1,0 +1,55 @@
+import java.io.*;
+import java.util.*;
+
+public class Main{
+
+public static void main(String[] args) throws IOException {
+    // write your code here
+    BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
+    
+    int n1= Integer.parseInt(br.readLine());
+    int m1= Integer.parseInt(br.readLine());
+    
+    int a1[][]= new int[n1][m1];
+    for(int i=0; i<n1;i++)
+    {
+        for(int j=0; j<m1;j++)
+            a1[i][j]= Integer.parseInt(br.readLine());
+    }
+    
+    int n2= Integer.parseInt(br.readLine());
+    int m2= Integer.parseInt(br.readLine());
+    
+    int a2[][]= new int[n2][m2];
+    for(int i=0; i<n2;i++)
+    {
+        for(int j=0; j<m2;j++)
+            a2[i][j]= Integer.parseInt(br.readLine());
+    }
+    
+    if(m1!=n2)
+    {
+        System.out.println("Invalid input");
+        System.exit(0);
+    }
+    
+    int matrix[][]= new int[n1][m2];
+    for(int i=0; i<n1; i++)
+    {
+        for(int j=0;j<m2; j++)
+        {
+            matrix[i][j]=0;
+            for(int k=0; k<m1;k++)
+                matrix[i][j]= matrix[i][j]+ a1[i][k]*a2[k][j]; 
+        }
+    }
+    
+    for(int i=0; i< n1;i++)
+    {
+        for(int j=0; j<m2;j++)
+            System.out.print(matrix[i][j]+" ");
+        System.out.println();    
+    }
+ }
+
+}
