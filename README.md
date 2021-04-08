@@ -48,7 +48,7 @@ This repository contains Java Solutions of DS questions from pepcoding website.
  19. [Pattern 18 Easy](DSA-Beginner/1.Basics-of-Programming/2.Patterns/pattern-19.java)
  20. [Pattern 20 Easy](DSA-Beginner/1.Basics-of-Programming/2.Patterns/pattern-20.java)
 
-#### Functions and Arrays
+##### Functions and Arrays
 
 1. [Digit Frequency Easy](DSA-Beginner/1.Basics-of-Programming/3.Functions-and-Arrays/digit-frequency.java)
 2. [Decimal To Any Base Easy](DSA-Beginner/1.Basics-of-Programming/3.Functions-and-Arrays/decimal-to-any-base.java)
@@ -69,3 +69,29 @@ This repository contains Java Solutions of DS questions from pepcoding website.
 17. [Subsets Of Array Easy](DSA-Beginner/1.Basics-of-Programming/3.Functions-and-Arrays/subsets-of-array.java)
 18. [Broken Economy Easy](DSA-Beginner/1.Basics-of-Programming/3.Functions-and-Arrays/broken-economy.java)
 19. [First Index And Last Index Easy](DSA-Beginner/1.Basics-of-Programming/3.Functions-and-Arrays/first-index-and-last-index.java)
+
+##### 2D Arrays
+
+1. [2d Arrays Demo Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/2d-arrays-demo.java)
+2. [Matrix Multiplication Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/matrix-multiplication.java)
+3. [The State Of Wakanda - 1 Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/the-state-of-wakanda-1.java)
+4. [Spiral Display Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/spiral-display.java)
+5. [Exit Point Of A Matrix Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/exit-point-of-matrix.java)
+6. [Rotate By 90 Degree Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/rotate-by-90-degree.java)
+7. [Ring Rotate Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/ring-rotate.java)
+8. [The State Of Wakanda - 2 Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/the-state-of-wakanda-2.java)
+9. [Saddle Price Easy](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/saddle-price.java)
+10. [Search In A Sorted 2d Array Medium](DSA-Beginner/1.Basics-of-Programming/4.2D-Arrays/search-in-a-sorted-2d-array.java)
+
+#### Recursion and Backtracking
+
+##### Introduction to Recursion
+
+ 1. [Print Decreasing Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Print-Decreasing.java)
+ 2. [Print Increasing Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Print-Increasing.java)
+ 3. [Print Increasing Decreasing Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Print-Increasing-Decreasing.java)
+ 4. [Factorial Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Factorial.java)
+ 5. [Power-linear Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Power-linear.java)
+ 6. [Power-logarithmic Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Power-logarithmic.java)
+ 7. [Print Zigzag Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Print-Zigzag.java)
+ 8. [Tower Of Hanoi Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Tower-Of-Hanoi.java)
