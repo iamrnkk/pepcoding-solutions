@@ -95,3 +95,12 @@ This repository contains Java Solutions of DS questions from pepcoding website.
  6. [Power-logarithmic Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Power-logarithmic.java)
  7. [Print Zigzag Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Print-Zigzag.java)
  8. [Tower Of Hanoi Easy](DSA-Beginner/2.Recursion-and-Backtracking/1.Intoduction-to-Recursion/Tower-Of-Hanoi.java)
+
+##### Recursion in Arrays
+
+ 1. [Display Array Easy](DSA-Beginner/2.Recursion-and-Backtracking/2.Recursion-in-Arrays/Display-Array.java)
+ 2. [Display Array In Reverse Easy](DSA-Beginner/2.Recursion-and-Backtracking/2.Recursion-in-Arrays/Display-Array-In-Reverse.java)
+ 3. [Max Of An Array Easy](DSA-Beginner/2.Recursion-and-Backtracking/2.Recursion-in-Arrays/Max-Of-An-Array.java)
+ 4. [First Index Easy](DSA-Beginner/2.Recursion-and-Backtracking/2.Recursion-in-Arrays/First-Index.java)
+ 5. [Last Index Easy](DSA-Beginner/2.Recursion-and-Backtracking/2.Recursion-in-Arrays/Last-Index.java)
+ 6. [All Indices Of Array Easy](DSA-Beginner/2.Recursion-and-Backtracking/2.Recursion-in-Arrays/All-Indices-Of-Array.java)
