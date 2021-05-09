@@ -1,6 +1,13 @@
-# Assignment-1
+# Assignment-1 
 
-#### Submitted to: Mr. Mohit Behl &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Submitted by: Kamalakar Srivastava (ECE)
+---
+
+#### Submitted to: *Mr. Mohit Behl* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Submitted by: *Kamalakar Srivastava* (ECE)
+
+#### original/remote link: [*github*](https://github.com/iamrnkk/pepcoding-solutions/blob/master/assignment-1/assignment1.md)
+
+---
+
 <br>
 
 1- Write a program to check given number is perfect number or not.
@@ -368,7 +375,7 @@ public class Main {
     }
 }
 ```
-1.  Write a program to find out sum of digit of given number.
+17.  Write a program to find out sum of digit of given number.
 ```java
 import java.util.*;
 public class Main {
